@@ -1,4 +1,5 @@
 # -Interfaces-for-Interactive-Video-Summary
+First it need to download all the code file and unzip the viedeo and video_summary_website folder. Next store these files in the same new folder.
 
 ### Installation
 
@@ -10,5 +11,5 @@
 
 ### Getting Started
 
-1. Run 'python2 testmodel.py' in /videoSummary/.
-2. Run 'python3 manage.py runserver' in /videoSummary/video-query-website/
+1. Run 'python2 testmodel.py' in /new folder/.
+2. Run 'python3 manage.py runserver' in /new folder/video-query-website/
