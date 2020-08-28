@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: qv-summary
+Version: 0.1
+Summary: This shows how to use or pretrained model of relevance model to score frames based on a given text query
+Home-page: UNKNOWN
+Author: Arun Balajee Vasudevan, ETH Zurich
+Author-email: arunv@vision.ee.ethz.ch
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

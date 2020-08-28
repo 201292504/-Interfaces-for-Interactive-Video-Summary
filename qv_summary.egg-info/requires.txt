@@ -1,0 +1,8 @@
+numpy
+moviepy
+theano
+lasagne
+scikit-image
+pafy
+gensim==0.12.3
+youtube-dl

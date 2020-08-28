@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+setup.py
+qv_summary.egg-info/PKG-INFO
+qv_summary.egg-info/SOURCES.txt
+qv_summary.egg-info/dependency_links.txt
+qv_summary.egg-info/not-zip-safe
+qv_summary.egg-info/requires.txt
+qv_summary.egg-info/top_level.txt
+qvsumm/__init__.py
+qvsumm/config.ini
+qvsumm/model.py
+qvsumm/shells.py
+qvsumm/utils_func.py
